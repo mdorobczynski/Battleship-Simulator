@@ -12,11 +12,11 @@ The assignment rules are as followings:
 
 5. Game ends
 
-a. Once all the ship pieces have been found
+    a. Once all the ship pieces have been found
 
-b. Once the user misses 15 times in a row
+    b. Once the user misses 15 times in a row
 
-c. Uses the sentinel command ( -1 for example)
+    c. Uses the sentinel command ( -1 for example)
 
 6. The board must be its own class
 
